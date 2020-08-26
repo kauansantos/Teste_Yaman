@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b286667-ef2d-44a7-a588-b492a1889b72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/DesafioYamanPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/repositorios/RepDesafioYaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DesafioYamanStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/features/DesafioWebYaman.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BDD_PORTAL_BENEFICIARIOS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Auditeste0164.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Auditeste0278.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEIA-ME.md" beforeDir="false" afterPath="$PROJECT_DIR$/LEIA-ME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Status_Report/Step_Report.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/factory/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/factory/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObject/PortalBenePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/repositorios/RepBene.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/RunnersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunnersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/TourIQStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/evidencia/Cover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/evidencia/Cover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/services/StatusCodeCorretores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/features/PortalBeneficiarios.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/utils/odontoprevlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/html/evidence-html/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/html/evidence-html/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/json/evidencia.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/json/evidencia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_03062020171110.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_03062020171110.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_03062020181146.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_03062020181146.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020125754.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020125754.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020130024.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020130024.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020205915__PASSED.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020205915__PASSED.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020210451__PASSED.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_04062020210451__PASSED.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020141607.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020141607.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020141907.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020141907.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020142116.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020142116.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020153041__PASSED.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020153041__PASSED.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020153451__PASSED.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020153451__PASSED.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020154307.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020154307.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020154505__PASSED.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020154505__PASSED.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020154957__PASSED.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020154957__PASSED.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020175131__PASSED.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidencias/portal_beneficiarios/Tour Indicacao Qualificada - test1_null_08062020175131__PASSED.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/BDD_PORTAL_BENEFICIARIOS.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/factory/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/factory/WebDriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/features/PortalBeneficiarios.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/PortalBenePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/repositorios/RepBene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/RunnersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/RunnersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/TourIQStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/evidencia/Cover.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/evidencia/Cover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/odontoprevlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/services/StatusCodeCorretores.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TIQvYm35UVrkzUPRRQ4mziXHmN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/lib" />
+      <recent name="C:\Users\Auditeste0278\Desktop\BDD_CORRETORES\src\main\resources\lib" />
+      <recent name="C:\Users\Auditeste0278\Documents\Projetos Jonathan\ProjetosAtuais\__Portais_Odontoprev\PROD_ODONTOCONECTA-master-b30eb9f53666db65c1b9e98a8ad69ed43ab387bb\src\main\resources\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Auditeste0164\Desktop\BDD_PROJETO_MIGRAÇÃO_SIC\src\test\java" />
+      <recent name="C:\Users\Auditeste0278\Desktop\BDD_CORRETORES\src\test\resources\features\feature_Sprint_1" />
+      <recent name="C:\Users\Auditeste0278\Documents\Projetos Jonathan\ProjetosAtuais\__Portais_Odontoprev\PROD_ODONTOCONECTA-master-b30eb9f53666db65c1b9e98a8ad69ed43ab387bb\src\main\resources\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunnersTest (1)">
+    <configuration name="Scenario: Cadastrando vida com sucesso" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/feature_Sprint_1/CadastroDeVida.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BDD_PROJETO_MIGRAÇÃO_SIC" />
+      <option name="NAME_FILTER" value="^Cadastrando vida com sucesso$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^Cadastrando vida com sucesso$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Cadastrando vida com sucesso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Usuario realiza o processo de login e verifica o Historico" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/feature_Sprint_1/consultaHistorico.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BDD_CORRETORES" />
+      <option name="NAME_FILTER" value="^Usuario realiza o processo de login e verifica o Historico$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^Usuario realiza o processo de login e verifica o Historico$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Usuario realiza o processo de login e verifica o Historico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Usuario realiza o processo de login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/feature_Sprint_1/LoginParceiros.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BDD_INDICACAO_QUALIFICADA" />
+      <option name="NAME_FILTER" value="^Usuario realiza o processo de login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^Usuario realiza o processo de login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Usuario realiza o processo de login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" editBeforeRun="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BDD_NUMERO_DA_SORTE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnersTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TESTE YAMAN" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnersTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnersTest (1)" />
+        <item itemvalue="JUnit.RunnersTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\Auditeste0278\Documents\Documentos Jonathan\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b286667-ef2d-44a7-a588-b492a1889b72" name="Default Changelist" comment="" />
+      <created>1573145360262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573145360262</updated>
+      <workItem from="1575051154711" duration="1141000" />
+      <workItem from="1575052816811" duration="988000" />
+      <workItem from="1575055950687" duration="562000" />
+      <workItem from="1575057472970" duration="743000" />
+      <workItem from="1575078619980" duration="7875000" />
+      <workItem from="1575311110347" duration="621000" />
+      <workItem from="1575311778448" duration="1616000" />
+      <workItem from="1575318314891" duration="121000" />
+      <workItem from="1575373418771" duration="1148000" />
+      <workItem from="1575375824088" duration="661000" />
+      <workItem from="1575376625922" duration="243000" />
+      <workItem from="1575377081483" duration="1677000" />
+      <workItem from="1575379681954" duration="547000" />
+      <workItem from="1575380394320" duration="7386000" />
+      <workItem from="1575392734487" duration="1885000" />
+      <workItem from="1575472083561" duration="64000" />
+      <workItem from="1575472387964" duration="773000" />
+      <workItem from="1575483645507" duration="1204000" />
+      <workItem from="1575549600189" duration="145000" />
+      <workItem from="1575636405412" duration="170000" />
+      <workItem from="1575642297667" duration="2720000" />
+      <workItem from="1575658988635" duration="717000" />
+      <workItem from="1576072281583" duration="13000" />
+      <workItem from="1579696277401" duration="2108000" />
+      <workItem from="1579699078200" duration="77000" />
+      <workItem from="1579699176221" duration="506000" />
+      <workItem from="1579699704907" duration="807000" />
+      <workItem from="1579700532109" duration="320000" />
+      <workItem from="1579700929533" duration="117000" />
+      <workItem from="1579701062591" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="23" width="1440" height="900" key="#Notifications" timestamp="1591215134339">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="0" y="0" width="1440" height="900" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1591213016535" />
+    <state x="0" y="23" key="#Notifications/0.23.1440.827@0.23.1440.827" timestamp="1591215134339" />
+    <state x="208" y="31" key="#Project_Structure" timestamp="1591209294041">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1591209294041" />
+    <state x="295" y="25" key="#RunnersTest" timestamp="1591210017948">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="295" y="25" key="#RunnersTest/0.0.1440.900@0.0.1440.900" timestamp="1591210017948" />
+    <state x="393" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592857219794">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="393" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1592857219794" />
+    <state x="322" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1591286392960">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="322" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.827@0.23.1440.827" timestamp="1591286392960" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591207937881">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1591207937881" />
+    <state x="435" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598407839326">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="435" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.826@0.23.1440.826" timestamp="1598407839326" />
+    <state x="435" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.827@0.23.1440.827" timestamp="1591644541728" />
+    <state x="411" y="296" key="DBNavigator.ConnectionInfoDialog" timestamp="1592609496861">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="411" y="296" key="DBNavigator.ConnectionInfoDialog/0.23.1440.827@0.23.1440.827" timestamp="1592609496861" />
+    <state x="468" y="169" key="DBNavigator.ExportDataDialog" timestamp="1592587561667">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="468" y="169" key="DBNavigator.ExportDataDialog/0.23.1440.827@0.23.1440.827" timestamp="1592587561667" />
+    <state x="239" y="145" key="DBNavigator.ProjectSettingsDialog" timestamp="1592609567553">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="239" y="145" key="DBNavigator.ProjectSettingsDialog/0.23.1440.827@0.23.1440.827" timestamp="1592609567553" />
+    <state x="443" y="208" key="DBNavigator.ResultSetRecordViewerDialog" timestamp="1592418816699">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="443" y="208" key="DBNavigator.ResultSetRecordViewerDialog/0.23.1440.827@0.23.1440.827" timestamp="1592418816699" />
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1589833687791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589833687791" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom" timestamp="1598456327880">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591211522161" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1598456327880" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1598407678590" />
+    <state width="1398" height="184" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1593456711158" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1598373720180" />
+    <state width="1398" height="184" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1592942231088" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center" timestamp="1598456327878">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591211522160" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1598456327878" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1598407678589" />
+    <state width="1398" height="184" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1593456711156" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1598373720179" />
+    <state width="1398" height="184" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1592942231087" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left" timestamp="1598456327878">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591211522159" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1598456327878" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1598407678589" />
+    <state width="1398" height="184" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1593456711156" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1598373720178" />
+    <state width="1398" height="184" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1592942231087" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right" timestamp="1598456327879">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591211522161" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1598456327879" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1598407678590" />
+    <state width="1398" height="184" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1593456711157" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1598373720180" />
+    <state width="1398" height="184" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1592942231088" />
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom" timestamp="1598368232871">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1598368232871" />
+    <state width="1398" height="184" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1593456711159" />
+    <state width="1398" height="184" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1592942230939" />
+    <state width="1398" height="184" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1592942316749" />
+    <state width="1398" height="270" key="GridCell.Tab.1.center" timestamp="1598368232870">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1598368232870" />
+    <state width="1398" height="184" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1593456711158" />
+    <state width="1398" height="184" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1592942230938" />
+    <state width="1398" height="184" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1592942316749" />
+    <state width="1398" height="270" key="GridCell.Tab.1.left" timestamp="1598368232870">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1598368232870" />
+    <state width="1398" height="184" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1593456711158" />
+    <state width="1398" height="184" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1592942230938" />
+    <state width="1398" height="184" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1592942316748" />
+    <state width="1398" height="270" key="GridCell.Tab.1.right" timestamp="1598368232871">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1598368232871" />
+    <state width="1398" height="184" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1593456711159" />
+    <state width="1398" height="184" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1592942230939" />
+    <state width="1398" height="184" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1592942316749" />
+    <state x="229" y="23" key="SettingsEditor" timestamp="1592610848297">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="229" y="23" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1592610848297" />
+    <state x="343" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591743734925">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="343" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.827@0.23.1440.827" timestamp="1591743734925" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1598377409022">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1440.826@0.23.1440.826" timestamp="1598377409022" />
+    <state x="357" y="207" key="run.anything.popup" timestamp="1592603178166">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="357" y="207" key="run.anything.popup/0.23.1440.827@0.23.1440.827" timestamp="1592603178166" />
+    <state x="385" y="203" width="670" height="676" key="search.everywhere.popup" timestamp="1598374469071">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591211227542" />
+    <state x="385" y="203" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1598374469071" />
+    <state x="385" y="203" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1591997636543" />
+    <state x="385" y="204" width="670" height="679" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1592938882614" />
+  </component>
+</project>

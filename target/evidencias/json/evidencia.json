@@ -1,0 +1,149 @@
+[
+  {
+    "line": 7,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 23698145713,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Login com Sucesso",
+        "description": "",
+        "id": "login-no-novo-portal-beneficarios;login-com-sucesso",
+        "after": [
+          {
+            "result": {
+              "duration": 391749153,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22372160272,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que eu acesse o portal beneficiarios",
+            "match": {
+              "location": "LoginStep.queEuAcesseOPortalBeneficiarios()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 8950077088,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicar em acessar minha conta",
+            "match": {
+              "location": "LoginStep.clicarEmAcessarMinhaConta()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 12117594969,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "preencher cpf ou carteirinha",
+            "match": {
+              "location": "LoginStep.preencherCpfOuCarteirinha()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 11285720779,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "preencher senha",
+            "match": {
+              "location": "LoginStep.preencherSenha()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 42927716948,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "clicar em entrar",
+            "match": {
+              "location": "LoginStep.clicarEmEntrar()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 469468,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "devera apresentar o modal de teleorientacao",
+            "match": {
+              "location": "LoginStep.deveraApresentarOModalDeTeleorientacao()"
+            },
+            "keyword": "Entao "
+          },
+          {
+            "result": {
+              "duration": 404983,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "o protocolo de acesso",
+            "match": {
+              "location": "LoginStep.oProtocoloDeAcesso()"
+            },
+            "keyword": "E "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regressivo"
+          },
+          {
+            "name": "@TestSuc"
+          },
+          {
+            "name": "@hml"
+          }
+        ]
+      }
+    ],
+    "name": "Login no Novo Portal Beneficarios",
+    "description": "",
+    "id": "login-no-novo-portal-beneficarios",
+    "keyword": "Funcionalidade",
+    "uri": "src/test/resources/features/features/Login.feature",
+    "tags": [
+      {
+        "name": "@Regressivo",
+        "type": "Tag",
+        "location": {
+          "line": 6,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

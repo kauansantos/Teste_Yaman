@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+	<proxies>
+		<proxy>
+			<active>true</active>
+			<protocol>https</protocol>
+			<host>172.16.244.234</host>
+			<port>8080</port>
+			<username>ODPV-TERCEIRO</username>
+			<password>Gu3st_0dpV</password>
+			<nonProxyHosts>
+				local.net|localhost|10.10.10.*|172.16.*|172.18.*|192.168.100.*|192.168.200.*|*.bbdental.com.br|*.campanhabradescodental.com.br|*.dentalcard.com.br|*.dentalcorp.com.br|*.dentalcorpdesenv.com.br|*.servicos.dentalpartner.com.br|*.odontocorretor.com.br|*.odontoprev.com|*.odontoprev.com.ar|*.odontoprev.com.br|*.odontoprev.com.mx|*.odontoprev.net|*.odontoprev.odo.br|*.odontoprev.south.am|*.odontoprevdesenv.com.br|*.odontoserv.com.br|*.pergunteaodentista.com.br|*.planodentalonline.com.br|*.privian.com.br|*.prontodente.com.br|*.rededental.com.br|*.redeunna.com.br|*.sepao.com.br|*.smile.com.br
+			</nonProxyHosts>
+		</proxy>
+	</proxies>
+</settings>

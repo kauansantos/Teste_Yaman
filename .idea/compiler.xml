@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BDD_PORTAL_BENEFICIARIOS" />
+        <module name="TESTE YAMAN" />
+        <module name="BDD_INDICACAO_QUALIFICADA" />
+        <module name="BDD_NUMERO_DA_SORTE" />
+        <module name="BDD_Corretores_" />
+        <module name="BDD_NUMERO_DA_SORTE_" />
+        <module name="BDD_CORRETORES" />
+        <module name="BDD_PROJETO_MIGRAÇÃO_SIC" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+SELECT *
+FROM   AP_INVOICES_INTERFACE -- status = 'PROCESSED'
+WHERE  source = 'SelfService'
+AND   INVOICE_ID = 35664156
